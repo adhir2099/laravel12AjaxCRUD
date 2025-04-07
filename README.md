@@ -1,11 +1,11 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-<h1 align="center"> Laravel 12 Ajax CRUD and Tailwind</h1>
+<h1 align="center"> Laravel 12 Ajax CRUD with Tailwind</h1>
 
 ## Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript" />
   </a>
 </p>
 
@@ -26,6 +26,24 @@ git clone https://github.com/adhir2099/laravel12AjaxCRUD.git
 <p>Head to it</p>
 <p>Open a terminal and run the following commands.</p>
 
+<p>Migration:</p>
+
+```bash
+php artisan migrate
+```
+
+<p>If you would like to see which migrations have run thus far, you may use the migrate:status Artisan command:</p>
+
+```bash
+php artisan migrate:status
+```
+
+<p>Roll Back and Migrate Using a Single Command</p>
+
+```bash
+php artisan migrate:refresh
+```
+
 <p>Compile assets:</p>
 
 ```bash
@@ -37,6 +55,9 @@ npm run dev
 ```bash
 php artisan serve
 ```
+
+<p>http://localhost:8000/</p>
+
 ## Contributing
 
 1. Fork it!
