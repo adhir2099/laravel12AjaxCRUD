@@ -44,6 +44,12 @@ php artisan migrate:status
 php artisan migrate:refresh
 ```
 
+```bash
+composer install
+cp .env.example .env
+php artisan key:generate
+```
+
 <p>Compile assets:</p>
 
 ```bash
