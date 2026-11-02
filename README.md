@@ -70,4 +70,4 @@ php artisan serve
 <p align="left">
 <a href="https://www.linkedin.com/in/adhir-serrano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adhir2099" height="30" width="40" /></a>
 </p>
-<p align="right" > Created with 🧡 by <a href="https://github.com/adhir2099">Adhir2099</a></p>
+<p align="right" > Created with ❤️ by <a href="https://github.com/adhir2099">Adhir2099</a></p>
